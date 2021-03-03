@@ -1,6 +1,6 @@
 # the_gamesman
 
-A new Flutter project.
+An e-commerce flutter app with firebase as backend
 
 ## Getting Started
 
